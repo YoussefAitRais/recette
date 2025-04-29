@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from "./navbar/navbar.component";
 import { HomeComponent } from "./home/home.component";
-import { RecipeComponent } from "./recipe/recipe.component";
+import { RecipeComponent } from "./recipe-detail/recipe.component";
 
 @Component({
   selector: 'app-root',
